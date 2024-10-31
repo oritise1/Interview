@@ -98,12 +98,14 @@ footer {
     }
     .info, .skill {
         padding: 1% 1%;
+        justfiy-content: center;
     }
     .edu {
         padding: 1% 1px;
         row-gap: 2px;
         flex-direction: row;
         flex-wrap: nowrap;
+        justfiy-content: center;
     }
     .image {
         flex-direction: column;
